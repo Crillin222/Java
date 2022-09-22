@@ -46,6 +46,7 @@
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1663797428430_8" label="13 EnumComp" name="13 EnumComp">
 <item elementID="=Enumeração" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=enum_ex1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1651624348501_2" label="Window Working Set" name="Aggregate for window 1651624348501"/>
 </workingSetManager>
