@@ -30,4 +30,6 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="entities.HourContract"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="entities.Carro"/>
+    <fullyQualifiedTypeName name="entities.Produto"/>
 </qualifiedTypeNameHistroy>
