@@ -48,6 +48,8 @@
 <item elementID="=Enumeração" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=enum_ex1" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=enum_ex2" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=enum_ex3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Banco" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1651624348501_2" label="Window Working Set" name="Aggregate for window 1651624348501"/>
 </workingSetManager>
