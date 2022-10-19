@@ -51,5 +51,8 @@
 <item elementID="=enum_ex3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Banco" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1666207718913_9" label="14_heranca_polimorfismo" name="14_heranca_polimorfismo">
+<item elementID="=heranca" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1651624348501_2" label="Window Working Set" name="Aggregate for window 1651624348501"/>
 </workingSetManager>
