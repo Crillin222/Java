@@ -45,6 +45,11 @@ public class Program {
 		acc11.withdraw(200.0);
 		System.out.println(acc11.getBalance());
 		
+		//Override super
+		Account acc12 = new BusinessAccount(1012, "Bob", 1000.0, 500.0);
+		acc12.withdraw(200.0);
+		System.out.println(acc12.getBalance());
+		
 		
 	}
 
