@@ -35,6 +35,17 @@ public class Program {
 			System.out.println("Update!");
 		}
 		
+		//Sobreposicao
+		
+		Account acc10 = new Account(1010, "Alex", 1000.0);
+		acc10.withdraw(200.0);
+		System.out.println(acc10.getBalance());
+		
+		Account acc11 = new SavingsAccount(1011, "Maria", 1000.0, 0.01);
+		acc11.withdraw(200.0);
+		System.out.println(acc11.getBalance());
+		
+		
 	}
 
 }
