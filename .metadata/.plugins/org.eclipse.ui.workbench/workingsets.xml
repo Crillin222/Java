@@ -58,5 +58,8 @@
 <item elementID="=abstrato" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=heranca_pol_ex3" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1667515496060_10" label="15_excecoes" name="15_excecoes">
+<item elementID="=excecoes_exemplo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1651624348501_2" label="Window Working Set" name="Aggregate for window 1651624348501"/>
 </workingSetManager>
