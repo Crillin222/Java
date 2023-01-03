@@ -35,7 +35,7 @@ public class Program {
 				e.printStackTrace();
 				sc.next();
 			}
-			//IF THE POSITION ENTERED ISNT A aNUMBER
+			//IF THE POSITION ENTERED ISNT A NUMBER
 			catch (InputMismatchException e) {
 				System.out.println("Input error");
 			}
