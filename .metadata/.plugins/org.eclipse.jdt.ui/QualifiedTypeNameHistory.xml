@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="entities.Triangle"/>
-    <fullyQualifiedTypeName name="entities.Aluno"/>
-    <fullyQualifiedTypeName name="util.Calculator"/>
     <fullyQualifiedTypeName name="entities.Conta"/>
     <fullyQualifiedTypeName name="entities.Pessoa"/>
     <fullyQualifiedTypeName name="entities.Rent"/>
@@ -60,4 +57,7 @@
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="application.Program"/>
     <fullyQualifiedTypeName name="model.entities.Reservation"/>
+    <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="model.exceptions.DomainException"/>
 </qualifiedTypeNameHistroy>
